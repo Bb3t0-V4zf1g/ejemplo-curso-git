@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.iconTheme": "symbols",
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "workbench.editor.enablePreview": true,
+    "files.autoSaveDelay": 1000,
+    "editor.renderLineHighlight": "all",
+    "editor.smoothScrolling": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "symbols.hidesExplorerArrows": false,
+}
